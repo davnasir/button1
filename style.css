@@ -1,6 +1,9 @@
 body{
   background-color: #363636;
 }
+
+
+
 .login-box {
   position: absolute;
   top: 50%;
@@ -95,4 +98,5 @@ body{
   height: 2px;
   background: linear-gradient(90deg, transparent, #03f40f);
   animation: btn-anim1 2s linear infinite;
+
 }
